@@ -33,5 +33,5 @@ end
 
 
 gem 'bootstrap-sass'
-
+gem 'bcrypt-ruby'
 gem 'haml-rails'
