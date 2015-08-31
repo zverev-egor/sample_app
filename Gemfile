@@ -33,3 +33,5 @@ end
 
 
 gem 'bootstrap-sass'
+
+gem 'haml-rails'
